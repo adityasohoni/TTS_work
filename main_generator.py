@@ -2,24 +2,24 @@ from rich import print
 from rich.console import Console
 import glob
 import os
-from spacy.lang.de import German
-from spacy.lang.en import English
-from spacy.lang.fr import French
-from spacy.lang.it import Italian
+# from spacy.lang.de import German
+# from spacy.lang.en import English
+# from spacy.lang.fr import French
+# from spacy.lang.it import Italian
 import time
 import pyaudio
 import keyboard
 from rich.progress import Progress
-from rich.progress import track
+# from rich.progress import track
 from rich.table import Table
 import wave
-from datetime import datetime
-import librosa
+# from datetime import datetime
+# import librosa
 import struct
 import numpy as np
 import webrtcvad
 from scipy.ndimage.morphology import binary_dilation
-import soundfile
+# import soundfile
 import sys
 import csv
 
